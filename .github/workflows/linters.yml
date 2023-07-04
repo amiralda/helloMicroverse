@@ -30,10 +30,6 @@ jobs:
           [ -f .hintrc ] || wget https://raw.githubusercontent.com/microverseinc/linters-config/master/html-css/.hintrc
       - name: Webhint Report
         run: npx hint.
-<<<<<<< HEAD
-
-=======
->>>>>>> 3e23cb68c1157610433534c29f2aae02368af883
   stylelint:
     name: Stylelint
     runs-on: ubuntu-22.04
