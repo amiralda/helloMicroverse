@@ -90,7 +90,7 @@ This is not a coding complexe project, do not have deployment.
 👤 **Author Dany AUGUSTIN**
 
 - GitHub: [@amiralda](https://github.com/amiralda)
-- Twitter: [@amiralda](https://twitter.com/amiralda)
+- Twitter: [@amiralda](https://twitter.com/amiraldany)
 - LinkedIn: [@dany-augustin](https://linkedin.com/in/dany-augustin)
 
 
